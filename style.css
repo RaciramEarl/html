@@ -1,0 +1,22 @@
+html{
+    background-color: rgb(247, 233, 235);
+}
+img{
+    padding:10px;
+    width:50%;
+    border: 5px solid rgb(231, 180, 180);
+
+}
+div{
+    text-align: center;
+    margin-top: 20px
+}
+h1{
+    color:red;
+    width: 100%;
+    text-align: center
+}
+h2{
+    color:red;
+}
+
